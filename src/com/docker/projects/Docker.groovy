@@ -3,7 +3,7 @@ package com.docker.projects;
 import groovy.transform.Field
 
 @Field
-def versionString = null
+def versionString = nulll
 
 @Field
 def imageId = null
